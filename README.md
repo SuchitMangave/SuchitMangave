@@ -1,16 +1,19 @@
-## Hi there 👋
+suchitmangave@github
+--------------
+OS: ..................... [ Windows 11]
+Uptime: .................. [1 year]
+Host: .................... [MY SELF]
+Kernel: .................. [ Full Stack Developer]
+IDE: ..................... [VSCode / aistudio / etc.]
 
-<!--
-**SuchitMangave/SuchitMangave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages.Programming: ... [e.g. Python, Java, Javascript]
+Languages.Web: ........... [e.g. HTML, CSS, React, Node.js]
+Languages.Real: .......... [e.g. English, Hindi, Marathi]
 
-Here are some ideas to get you started:
+Hobbies: ................. [e.g. Gaming, Open Source, Music,Movies]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact
+--------------
+Email: .................. suchitmangave@gmail.com
+LinkedIn: ............... linkedin.com/in/suchitMangave
+Portfolio: .............. myportfolio.com
